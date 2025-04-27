@@ -38,6 +38,11 @@ cd CyberNetLabs-P2P-FileShare
 ```bash
 python p2p_node.py
 ```
+or 
+```bash
+python cnl-gui-p2p.py
+```
+
 
 4. **4.	Menu Options:**
 
